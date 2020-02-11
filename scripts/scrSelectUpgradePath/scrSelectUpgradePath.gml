@@ -1,0 +1,1 @@
+oGameController.cursorState = "upgrade";

@@ -1,0 +1,16 @@
+CardID,CardName,keywordID,type,desc
+1,Turret,0,1, Creates a turret on a node.
+2,Vertical Line,1,2, A vertical Path Card.
+3,Horizonal Line,2,2, A Horizonal Path Card.
+4,Left L,3,2, A Left L Path Card.
+5,Right L,4,2, A Right L Path Card.
+6,Inverted Left L,5,2, An Inverted Left L.
+7,Inverted Right L,6,2, An Inverted Right L.
+8,Pick Two,7,3, Pick Two of the Three Path Options to Add to Your Deck.
+9,Upgrade Path,8,3, Upgrades a Path on the Board.
+10,Speed(), 9, 4, Increases fire rate of Turret.
+11, Damage(), 10, 4, Increases Damage of Turret.
+12, Range(), 11, 4, Increases Range of Turret.
+13, Poison(),12, 4, Adds poison to Turret.
+14, Slow(), 13, 4, Slows Enemy for a time.
+15, Draw, 14, 3, Draws Two Cards.
